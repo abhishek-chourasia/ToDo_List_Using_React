@@ -1,0 +1,28 @@
+li{
+    /* float: left; */
+    /* margin-left: 70px; */
+    /* margin-left: auto; */
+    /* padding-left: 10px; */
+    /* background-color: #fff; */
+    /* padding-left: 0; */
+    font-size: 25px;
+    /* margin-left: 0; */
+    color: rgb(167, 68, 153);
+}
+
+.delete_button{
+    height: 20px;
+    width: 20px;
+    margin-left: 15px;
+    background-color: rgb(247, 203, 203);
+    border-radius: 50%;
+    color: white;
+    padding: 2px;
+    outline: none;
+    border: none;
+    padding-top: 3px;
+}
+
+.delete_button:hover{
+    background-color: rgb(248, 37, 37);
+}
